@@ -1,0 +1,23 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+*.iml
+*.log
+# Android related
+*.apk
+*.aar
+*.iml
+.gradle/
+local.properties
+
+# iOS related
+Pods/
+*.xcworkspace
+*.xcuserdata
+*.lock
+
+# Misc
+*.DS_Store
